@@ -225,3 +225,5 @@ with col4:
                         labels={'household_age': 'Idade da Família', 'sales_value': 'Vendas'},
                         barmode='h')
     st.plotly_chart(householdsale)
+
+    #End
